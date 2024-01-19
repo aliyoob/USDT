@@ -7,3 +7,5 @@ Requirements
 ```
 pip install python-telegram-bot requests
 ```  
+
+2. Use /usd for receive the usd price
