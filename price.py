@@ -2,10 +2,10 @@ import requests
 import time
 from telegram import Bot, ParseMode
 
-# توکن ربات تلگرام خود را در اینجا قرار دهید
+# توکن ربات تلگرام 
 TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 
-# شناسه گروه تلگرامی خود را در اینجا قرار دهید
+# شناسه گروه تلگرامی
 TELEGRAM_GROUP_ID = -100123456789  # Replace with your group ID
 
 # آدرس API موردنظر
