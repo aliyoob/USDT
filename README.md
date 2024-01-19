@@ -1,4 +1,4 @@
-# USDT
+# Telegram bot USDT price sender
 Simple Telegram bot for sending the USTIRT in group chats
 
 Requirements
